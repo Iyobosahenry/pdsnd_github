@@ -10,7 +10,10 @@ The title of this project is **My Bikeshare project**
 Using Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. Taking in raw input to create an interactive experience in the terminal to present interesting analysis about it by computing descriptive statistics.
 
 ### Files used
-Include the files used
+*The files used are:*
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
