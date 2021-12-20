@@ -218,7 +218,8 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-   
+    
+    #To display raw data upon user request
     city_data = pd.read_csv(city)
     df = pd.DataFrame(city_data).dropna()       
     i = 0
